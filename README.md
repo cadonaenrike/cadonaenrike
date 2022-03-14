@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Éverton Cadona. <img src="https://w7.pngwing.com/pngs/176/875/png-transparent-hello-computer-icons-symbol-hello-summer-text-logo-words-phrases.png"></h2>
+<h2> Hey there! I'm Éverton Cadona./h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
