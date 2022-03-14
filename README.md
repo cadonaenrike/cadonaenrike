@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Front-end Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying full stack developer.
+- 🎓 &nbsp; Studying starter full stack developer at the company GROWDEV.
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in motors and Artificial Intelligence .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
