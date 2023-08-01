@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 Java 
-- 🌐 HTML | CSS | JavaScript | Bootstrap 
+- 💻 JavaScript
+- 🌐 Web Developer I Desenvolvimento de Software Full Stack Web Developer I Desenvolvedor Full Stack Front-end Web Developer I Back-end Web Developer Júnior Web Developer | React | Node I Java 
 - 🔧 Visual Studio code | Git
-- 🖥 Illustrator | Photoshop | Canva
+- 🖥 Illustrator | Photoshop | Canva | figma
 
 <br>
 
